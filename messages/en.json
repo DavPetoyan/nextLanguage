@@ -1,0 +1,31 @@
+{
+    "navbar": {
+        "home": "Home",
+        "about": "About Us",
+        "services": "Services",
+        "contact": "Contact"
+    },
+    "hero": {
+        "title": "Discover New Opportunities",
+        "subtitle": "We have created a modern and user-friendly environment where you can quickly find everything you need and enjoy a smooth and comfortable experience."
+    },
+    "features": {
+        "fast": {
+            "title": "Fast Performance",
+            "text": "Our system is designed to deliver high speed and maximum efficiency for every user."
+        },
+        "secure": {
+            "title": "Secure Platform",
+            "text": "Your privacy and data protection are our highest priorities at all times."
+        },
+        "support": {
+            "title": "24/7 Support",
+            "text": "Our support team is always available to assist you with any questions or issues."
+        }
+    },
+    "footer": {
+        "rights": "All rights reserved.",
+        "privacy": "Privacy Policy",
+        "terms": "Terms of Service"
+    }
+}

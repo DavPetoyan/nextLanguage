@@ -29,7 +29,7 @@ export default function NavItem() {
         <>
 
             {Object.entries(locale.navbar).map(([key, value]) => (
-                <li><a className='hover:text-blue-200 transition-colors duration-300' href='#' key={key}>{value}</a></li>
+                <li key={key}><a className='nav-link   text-[16px] hover:text-blue-200 transition-colors duration-300' href='#' >{value}</a></li>
             ))}
 
         </>

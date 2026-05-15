@@ -1,31 +1,42 @@
 {
-    "navbar": {
-        "home": "Home",
-        "about": "About Us",
-        "services": "Services",
-        "contact": "Contact"
+  "navbar": {
+    "home": "Home",
+    "biography": "Biography",
+    "movies": "Movies",
+    "awards": "Awards",
+    "gallery": "Gallery",
+    "quotes": "Quotes",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Al Pacino",
+    "subtitle": "Legendary American actor, director, and producer known for his unforgettable performances in cinema history."
+  },
+  "about": {
+    "title": "About Al Pacino",
+    "text": "Al Pacino is one of the greatest actors of all time. His career spans more than five decades with iconic roles in films such as The Godfather, Scarface, Heat, and Scent of a Woman."
+  },
+  "features": {
+    "movies": {
+      "title": "50+ Movies",
+      "text": "Al Pacino has starred in dozens of legendary films that shaped modern cinema."
     },
-    "hero": {
-        "title": "Discover New Opportunities",
-        "subtitle": "We have created a modern and user-friendly environment where you can quickly find everything you need and enjoy a smooth and comfortable experience."
+    "awards": {
+      "title": "Academy Awards",
+      "text": "He has received numerous awards including an Oscar, Golden Globes, and Emmy Awards."
     },
-    "features": {
-        "fast": {
-            "title": "Fast Performance",
-            "text": "Our system is designed to deliver high speed and maximum efficiency for every user."
-        },
-        "secure": {
-            "title": "Secure Platform",
-            "text": "Your privacy and data protection are our highest priorities at all times."
-        },
-        "support": {
-            "title": "24/7 Support",
-            "text": "Our support team is always available to assist you with any questions or issues."
-        }
-    },
-    "footer": {
-        "rights": "All rights reserved.",
-        "privacy": "Privacy Policy",
-        "terms": "Terms of Service"
+    "legacy": {
+      "title": "Cinema Legend",
+      "text": "His influence on acting and filmmaking continues to inspire generations worldwide."
     }
+  },
+  "quotes": {
+    "title": "Famous Quote",
+    "text": "“I don't need bodyguards. I'm from the South Bronx.”"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  }
 }

@@ -38,7 +38,7 @@ export default function LanguageSwitcher() {
 
     return (
         <>
-            <select onChange={handleChangeLanguage} value={local} className='bg-transparent text-black border border-gray-300 rounded-md px-2 py-1'>
+            <select onChange={handleChangeLanguage} value={local} className='bg-transparent cursor-pointer text-[#c5d13b] border border-gray-300 rounded-md p-2'>
                 {locales.map((e) => <option key={e.id} value={e.code}>{e.name}</option>)}
             </select>
         </>
